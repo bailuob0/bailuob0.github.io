@@ -1,7 +1,7 @@
 @font-face 
 {
     font-family: "Sunny";
-    src: url(../fonts/SunnyRegular-K7jmW.woff2);
+    src: url(fonts/SunnyRegular-K7jmW.woff2);
 }
 
 * {
@@ -127,7 +127,7 @@ nav ul
     position: relative;
     width: 90vw;
     height: 60vw;
-    background-image: url(../images/turtleside.jpg);
+    background-image: url(images/turtleside.jpg);
     background-size: contain;
     max-width: 600px;
     max-height: 400px;
@@ -239,39 +239,39 @@ is relative to absolute position in  container */
 #green-turtle
 {
     
-    background-image: url(../images/greenseaturtle.jpg);
+    background-image: url(images/greenseaturtle.jpg);
     background-size: cover;
 
 }
 
 #hawksbill-turtle
 {
-    background-image: url(../images/hawksbillseaturtle.jpg);
+    background-image: url(images/hawksbillseaturtle.jpg);
     background-size: cover;
    
 }
 
 #elongated-tortoise
 {
-    background-image: url(../images/elongatedtortoise.jpg);
+    background-image: url(images/elongatedtortoise.jpg);
     background-size: cover;
 }
 
 #star-tortoise
 {
-    background-image: url(../images/startortoise.jpg);
+    background-image: url(images/startortoise.jpg);
     background-size: cover;
 }
 
 #batagur-baska
 {
-    background-image: url(../images/batagurbaska.jpg);
+    background-image: url(images/batagurbaska.jpg);
     background-size: cover;
 }
 
 #red-ear-slider
 {
-    background-image: url(../images/redearslider.jpg);
+    background-image: url(images/redearslider.jpg);
     background-size: cover;
 }
 
